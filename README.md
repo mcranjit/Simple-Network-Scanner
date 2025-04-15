@@ -37,4 +37,6 @@ Run the scanner with:
 python netscan.py
 ```
 
+##Sample Output
+
 ![Image](https://github.com/user-attachments/assets/685e5516-e1b8-4095-96be-ee59412765ef)
