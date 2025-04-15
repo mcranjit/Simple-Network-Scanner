@@ -35,3 +35,5 @@ The Simple Network Scanner is a lightweight tool designed to scan and identify d
 Run the scanner with:
 ```bash
 python netscan.py
+
+![Image](https://github.com/user-attachments/assets/685e5516-e1b8-4095-96be-ee59412765ef)
