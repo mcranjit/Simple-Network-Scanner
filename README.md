@@ -20,7 +20,7 @@ The Simple Network Scanner is a lightweight tool designed to scan and identify d
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simple-network-scanner.git
+    git clone https://github.com/mcranjit/simple-network-scanner.git
     ```
 2. Navigate to the project directory:
     ```bash
